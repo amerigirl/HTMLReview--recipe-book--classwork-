@@ -1,14 +1,24 @@
 h1 {
   text-align: center;
-  color: blue;
+  color: darkblue;
+  padding-top: 1%;
 }
 
 #cookie {
-display: flex;
-padding-left: 1%;
-
+  display: flex;
+  padding-left: 1%;
 }
 
 #cookie img {
-    border-radius: 10%;
+  border-radius: 10%;
+}
+
+#table #ingredients-header {
+  padding: 0;
+  font-weight: bold;
+}
+
+tbody {
+  display: block;
+  padding-left: 8%;
 }
