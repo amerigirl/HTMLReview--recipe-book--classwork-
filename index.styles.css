@@ -1,5 +1,14 @@
-  h1{
-            text-align: center;
-            color: blue;
-        }
+h1 {
+  text-align: center;
+  color: blue;
+}
 
+#cookie {
+display: flex;
+padding-left: 1%;
+
+}
+
+#cookie img {
+    border-radius: 10%;
+}
