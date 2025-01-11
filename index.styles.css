@@ -7,6 +7,8 @@ h1 {
 .recipe-image {
   border-radius: 10%;
   padding: 1%;
+  height: 200px;
+  width: 200px;
 }
 
 .ingredients-header {
